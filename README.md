@@ -14,12 +14,8 @@ npm i --force if it doesnt work at first
 npm run dev
 ```
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+## Credits
+"Preceptory and Dower House - game asset" (https://skfb.ly/oFNDG) by Andy Woodhead is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 ## License
 
